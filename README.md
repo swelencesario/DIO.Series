@@ -1,6 +1,6 @@
-# DIO.Series 
+<h1>DIO.Series</h1> 
 
-##Bootcamp Localiza Digital Innovation One
+<h2>Bootcamp Localiza Digital Innovation One</h2>
 
 - Criando um App simples de cadastro de séries em .Net
 - Instrutor Eliézer Zarpelão
