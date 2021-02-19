@@ -4,7 +4,7 @@
 
 <br>
 - Criando um App simples de cadastro de séries em .Net
-- Instrutor Eliézer Zarpelão
+- Instrutor Eliézer Zarpelão</br>
 
 <br>
 Esta atividade tem como objetivo colocar em prática os conceitos sobre Camadas e Interfaces
